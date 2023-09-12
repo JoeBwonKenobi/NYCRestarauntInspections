@@ -4,7 +4,8 @@ Date Started: 9/10/2023
 
 # **Project Description:**
 
- Find Trends and patterns and use machine learning to make predictions of which restaurants will have a secondary inspection and for what violations.
+- Find Trends and patterns and use machine learning to make predictions of which restaurants will have a secondary inspection and for what violations.
+- Use the 'future' inspections in the dataset to predict when a vist or secondary visit wil occur.
 
 # **Data Source:**
 
