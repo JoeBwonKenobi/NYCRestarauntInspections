@@ -1,4 +1,4 @@
-# NYCRestarauntInspections Project
+# NYC Restaraunt Inspections Project
 
 Date Started: 9/10/2023
 
