@@ -64,7 +64,6 @@ Add context here
 **INSPECTION TYPE** A combination of the inspection program and the type of inspection performed; See Data Dictionary for full list of expected values
 
 
-
 # **Methods**
 
 # **EDA**
