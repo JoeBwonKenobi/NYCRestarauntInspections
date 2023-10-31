@@ -17,6 +17,7 @@ https://catalog.data.gov/dataset/dohmh-new-york-city-restaurant-inspection-resul
 - #pip install nltk
 - #pip install wordcloud
 - #nltk.download('stopwords')
+- #pip install geopy
 - YELP LINK
 
 About NYC Health Inspections data: 
