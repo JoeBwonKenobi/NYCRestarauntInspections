@@ -4,13 +4,13 @@ Date Started: 9/10/2023
 
 # **Project Description:**
 
-- Find Trends and patterns and use machine learning to make predictions of which restaurants will have a secondary inspection and for what violations.
-- Use the 'future' inspections in the dataset to predict when a vist or secondary visit wil occur.
-- Compare the inspection data with yelp reviews and use hypothesis testing to determine if better scores on inspections make an impact on wether or not a restaurant recives good reviews from YELP
-- .
+- Employing an API, compare inspection data with Yelp reviews and leverage hypothesis testing to investigate the correlation between superior inspection scores and the likelihood of restaurants that serve pizza in Brooklyn are obtaining positive reviews on Yelp.
+
 # **Data Source:**
 
 https://catalog.data.gov/dataset/dohmh-new-york-city-restaurant-inspection-results
+
+Yelp API Key
 
 ## **Necesary links to run notebooks:**
 
@@ -18,15 +18,12 @@ https://catalog.data.gov/dataset/dohmh-new-york-city-restaurant-inspection-resul
 - #pip install wordcloud
 - #nltk.download('stopwords')
 - #pip install geopy
-- YELP LINK
+- YELP API key
 
 About NYC Health Inspections data: 
 This dataset includes NYC restuarant inpection data for the last three years prior to the most recent inspection and does not include restaurants that go out of business. Letter grading inspections were put on pause beginning March 17, 2020, until July 19, 2021, due to the COVID-19 public health emergency. Modified restaurant inspections occurred during this time. Restaurants are uniquely identified by their CAMIS number. Only restaurants that are currently active as of the date of this extraction are included in the dataset. Establishments with inspection date of 1/1/1900 are new establishments that have not yet received an inspection. These will be excluded from parts of the project.
 
 
-
-
-Add context here
 
 # **Data Dictionary**
 
@@ -66,6 +63,9 @@ Add context here
 
 
 # **Methods**
+
+- I used hypothesis testing to find out whether or not there was any correlation between better inspections scores mean better ratings on Yelp.
+
 
 # **EDA**
 
