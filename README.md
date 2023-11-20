@@ -18,6 +18,7 @@ Yelp API Key
 - #pip install wordcloud
 - #nltk.download('stopwords')
 - #pip install geopy
+- #pip install category_encoders
 - YELP API key
 
 About NYC Health Inspections data: 
