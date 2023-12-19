@@ -26,6 +26,8 @@ VIOLATION DESCRIPTIONViolation description associated with an establishment (res
 CRITICAL FLAG Indicator of critical violation; "• Critical • Not Critical • Not Applicable"; Critical violations are those most likely to contribute to food-borne illness
 
 SCORETotal score for a particular inspection; Scores are updated based on adjudication results
+**Context**Restaurants with a score between 0 and 13 points earn an A, those with 14 to 27 points receive a B and those with 28
+or more a C.
 
 GRADE Grade associated with the inspection; • N = Not Yet Graded• A = Grade A• B = Grade B• C = Grade C• Z = Grade Pending• P= Grade Pending issued on re-opening following an initial inspection that resulted in a closure
 
