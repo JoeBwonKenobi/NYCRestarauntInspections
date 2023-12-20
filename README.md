@@ -10,7 +10,12 @@ Date Started: 9/10/2023
 
 https://catalog.data.gov/dataset/dohmh-new-york-city-restaurant-inspection-results
 
-Yelp API Key
+# **Necesary links for understanding context within the data**
+
+- https://www.nyc.gov/site/doh/business/food-operators/letter-grading-for-restaurants.page
+
+- https://www.nyc.gov/assets/doh/downloads/pdf/rii/restaurant-grading-faq.pdf
+
 
 ## **Necesary links to run notebooks:**
 
