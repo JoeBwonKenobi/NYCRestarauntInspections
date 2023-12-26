@@ -92,9 +92,6 @@ This visualization shows that the majority of Pizza restaurants in Brooklyn are 
 
 ![Distribution of Ratings for Pizza](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/76a12cff-936f-4670-ba48-9e6f0ab7db0a)
 
-This visualization shows
-
-![Screenshot 2023-12-26 121828](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/779e0f42-7ee2-46a1-8ddc-606d46e04183)
 
 This visualization shows the review counts for Pizza restaurants in Brooklyn with at least 200 reviews
 
