@@ -98,11 +98,3 @@ This visualization shows that the majority of Pizza restaurants in Brooklyn are 
 
 # **Top Words for violation descriptions**
 ![Top words for violation descriptions](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/624196ad-9e9f-446d-ac1a-24a6e793254a)
-
-
-    return cleaned_dataframe
-
-rdf = eliminate_missing_grade_date_rows(rdf)
-
-
-
