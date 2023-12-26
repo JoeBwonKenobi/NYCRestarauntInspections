@@ -76,11 +76,21 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 - I used hypothesis testing to find out whether or not there was any correlation between better inspections scores mean better ratings on Yelp.
 
 
-# **EDA**
+# **Inspections EDA**
+This visualization shows that the majority of the restaurants in NYC have a good score and are able to remain open
+
+![Distribution of Box Scores for inspections](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/53c31b9b-b282-431a-81f9-1e7a8221b24d)
 
 
+# **YELP EDA**
 
-# **More EDA**
+This visualization shows the ratings and review counts for Pizza restaurants in Brooklyn
+
+![Boxplot of ratings and review counts](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/75ed7392-6887-48f1-982d-e4e1dd270f2c)
+
+This visualization shows that the majority of Pizza restaurants in Brooklyn are rated between 3.5 and 4.5
+
+![Distribution of Ratings for Pizza](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/76a12cff-936f-4670-ba48-9e6f0ab7db0a)
 
 # **Model specs**
 
@@ -88,11 +98,3 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 # **Top Words for violation descriptions**
 ![Top words for violation descriptions](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/624196ad-9e9f-446d-ac1a-24a6e793254a)
-
-
-    return cleaned_dataframe
-
-rdf = eliminate_missing_grade_date_rows(rdf)
-
-
-
