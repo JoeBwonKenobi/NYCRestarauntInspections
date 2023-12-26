@@ -78,7 +78,7 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 # **EDA**
 
-![Cuisine Scores](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/6bb86493-42c0-48ef-94ba-d2d337ba32af)
+
 
 # **More EDA**
 
@@ -89,16 +89,6 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 # **Top Words for violation descriptions**
 ![Top words for violation descriptions](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/624196ad-9e9f-446d-ac1a-24a6e793254a)
 
-# Eliminating missing grades
-def eliminate_missing_grade_date_rows(rdf):
-    """
-    Eliminate rows with missing data in the "GRADE DATE" column.
-
-    Returns:
-    - Cleaned DataFrame without rows with missing "GRADE DATE"
-    """
-    # Drop rows with missing values in the "GRADE DATE" column
-    cleaned_dataframe = rdf.dropna(subset=["GRADE DATE"])
 
     return cleaned_dataframe
 
