@@ -77,7 +77,9 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 
 # **EDA**
+This visualization shows that the majority of the restaurants in NYC have a good score and are able to remain open
 
+![Distribution of Box Scores for inspections](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/53c31b9b-b282-431a-81f9-1e7a8221b24d)
 
 
 # **More EDA**
