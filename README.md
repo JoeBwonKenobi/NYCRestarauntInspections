@@ -27,6 +27,7 @@ YELP API
 - #nltk.download('stopwords')
 - #pip install geopy
 - #pip install category_encoders
+- #pip install geopandas matplotlib folium
 - YELP API key
 
 About NYC Health Inspections data: 
