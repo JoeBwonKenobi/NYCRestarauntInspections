@@ -86,7 +86,7 @@ This visualization shows that the majority of the restaurants in NYC have a good
 
 ![Distribution of Box Scores for inspections](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/53c31b9b-b282-431a-81f9-1e7a8221b24d)
 
-These are the average inspection scores for each boro
+These are the average inspection scores for each boro. The lower the score, the better the inspection turned out.
 
 ![Average Inspection Score for Pizaa Restaurants in each Boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/c816f6b4-19e1-45b5-b801-d4427ace5d17)
 
