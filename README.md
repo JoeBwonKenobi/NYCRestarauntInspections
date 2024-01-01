@@ -80,11 +80,24 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 - I used many different visualization methods using matplotlib, seaborn, and pandas. I also included a geospatial visualization summing up the majority of my findings.
 
-# **Inspections EDA**
-This visualization shows that the majority of the restaurants in NYC have a good score and are able to remain open
+# **NYC Inspections EDA**
+
+This visualization shows that the majority of the restaurants in NYC have a good score and are able to remain open after a sucessful initial inspection.
 
 ![Distribution of Box Scores for inspections](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/53c31b9b-b282-431a-81f9-1e7a8221b24d)
 
+These are the average inspection scores for each boro
+
+![Average Inspection Score for Pizaa Restaurants in each Boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/c816f6b4-19e1-45b5-b801-d4427ace5d17)
+
+
+This visualization shows the distribution of Restaurants by Specific Boro
+
+![Screenshot 2024-01-01 122336](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/f8a10d62-29a0-4ed8-ba9b-8e695291c8af)
+
+These are the average scores for Pizza Restaurants in each boro
+
+![Average score for pizza restaurants by boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/e31e4706-dea6-4f91-b718-2ca8f653d8e8)
 
 # **YELP EDA**
 
