@@ -1,11 +1,11 @@
-# NYC Restaraunt Inspections Project
+# Brooklyn Pizza Restaurants Analysis**
 
 Date Started: 9/10/2023
 
 # **Project Description:**
 
-- Using an API, I analyzed inspection data alongside Yelp reviews. Through hypothesis testing, the goal is to explore the correlation between higher inspection scores and the probability that restaurants serving pizza in Brooklyn receive improved reviews on Yelp
-- Construct machine learning models to predict inspection scores, and YELP ratings.
+- Using an API, I extracted Yelp data and mergeed it with health inspections data for Pizza restaurants in Brooklyn
+- By employing hypothesis testing, the objective is to investigate the relationship between elevated inspection scores and the likelihood of restaurants in Brooklyn that serve pizza garnering enhanced reviews on Yelp
 
 # **Data Source:**
 
@@ -34,7 +34,7 @@ About NYC Health Inspections data:
 This dataset includes NYC restuarant inpection data for the last three years prior to the most recent inspection and does not include restaurants that go out of business. Letter grading inspections were put on pause beginning March 17, 2020, until July 19, 2021, due to the COVID-19 public health emergency. Modified restaurant inspections occurred during this time. Restaurants are uniquely identified by their CAMIS number. Only restaurants that are currently active as of the date of this extraction are included in the dataset. Establishments with inspection date of 1/1/1900 are new establishments that have not yet received an inspection. These will be excluded from parts of the project.
 
 About YELP data:
-I only included YELP data specifically for pizza restaurants in Brooklyn,NY. This helped to focus on a smaller dataset to search for correlation between the inspection scores and ratings.
+I only included YELP data specifically for pizza restaurants in Brooklyn,NY. This helped to focus on a smaller dataset to search for correlation between the inspection scores and ratings. 
 
 
 # **Data Dictionary**
@@ -76,16 +76,9 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 # **Methods**
 
-- I used hypothesis testing to find out whether or not there was any correlation between better inspections scores mean better ratings on Yelp. I used Z-scores to help identify any outliers and elimnated them before performing 3 different hypothesis tests.
+- I used hypothesis testing to find out whether or not there was any correlation between better inspections scores mean better ratings on Yelp. I used Z-scores to help identify any outliers and elimnated them before performing 3 different hypothesis tests. Unfortunately, there was no significant correlation found.
 
-- I used a number of different machine learning models to attempt to predict the inspection scores: 
-   - Linear Regression
-   - Ridge
-   - Gradient Boost
-   - KNN
-   
-- I used a Linear regression and KNN models to attempt predicting the ratings of Brooklyn pizza restaurants.
-
+- I used many different visualization methods using matplotlib, seaborn, and pandas. I also included a geospatial visualization summing up the majority of my findings.
 
 # **Inspections EDA**
 This visualization shows that the majority of the restaurants in NYC have a good score and are able to remain open
