@@ -102,11 +102,16 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 ![Boxplot of ratings and review counts](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/75ed7392-6887-48f1-982d-e4e1dd270f2c)
 
 - As shown above, more reviews does not always mean better ratings on YELP.
+
 ![Distribution of Ratings for Pizza](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/76a12cff-936f-4670-ba48-9e6f0ab7db0a)
 
 - This visualization shows that the majority of Pizza restaurants in Brooklyn are rated between 3.5 and 4.5
 
-This visualization shows the review counts for Pizza restaurants in Brooklyn with at least 200 reviews
-
 ![Review counts for restaurants](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/4c700f6b-33d1-4ca3-b7dd-143f92fe894c)
 
+- This visualization shows the review counts for Pizza restaurants in Brooklyn with at least 200 reviews.
+
+## *8Geospatial Analysis**
+
+
+# **Project Summary**
