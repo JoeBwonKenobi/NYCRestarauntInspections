@@ -117,6 +117,6 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 ## **Geospatial Analysis**
 
-<iframe width="600" height="400" src="[(https://github.com/JoeBwonKenobi/NYCRestarauntInspections/blob/main/NY_Restaurants_map_Brooklyn.html)https://github.com/JoeBwonKenobi/NYCRestarauntInspections/blob/main/NY_Restaurants_map_Brooklyn.html"]></iframe>
+![Alt text]
 
 # **Project Summary**
