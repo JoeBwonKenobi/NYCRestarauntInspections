@@ -115,8 +115,8 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 - This visualization shows the review counts for Pizza restaurants in Brooklyn with at least 200 reviews.
 
-## **8Geospatial Analysis**
+## **Geospatial Analysis**
 
-- world_map.html
+<iframe width="600" height="400" src="https://your-visualization-url.com"></iframe>
 
 # **Project Summary**
