@@ -45,7 +45,7 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 # **Methods:**
 
--I used feature engineering to create multiple new columns in the dataset to help gather a more in-depth look into the data.
+- I used feature engineering to create multiple new columns in the dataset to help gather a more in-depth look into the data.
 
 - I used hypothesis testing to find out whether or not there was any correlation between better inspections scores mean better ratings on Yelp. I used Z-scores to help identify any outliers and elimnated them before performing 3 different hypothesis tests. Unfortunately, there was no significant correlation found.
 
@@ -91,3 +91,4 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 # **Project Summary**
 
+This project was focused on data involving Pizza Restaurants in Brooklyn, NY.
