@@ -57,6 +57,9 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 - The majority of the restaurants score between 5-30, which is a good score and means they're able to remain open after a sucessful initial inspection.
 
+![Average score for pizza restaurants by boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/e31e4706-dea6-4f91-b718-2ca8f653d8e8)
+
+
 ![Average Inspection Score for Pizaa Restaurants in each Boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/c816f6b4-19e1-45b5-b801-d4427ace5d17)
 
 - The lower the number for the score, the better the restaurant performed on their inspection.
@@ -65,8 +68,6 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 ![Screenshot 2024-01-01 122336](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/f8a10d62-29a0-4ed8-ba9b-8e695291c8af)
 
 - This shows that Brooklyn has the second highest number of restaurants, second only to Manhattan.
-
-![Average score for pizza restaurants by boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/e31e4706-dea6-4f91-b718-2ca8f653d8e8)
 
 # **YELP EDA**
 
