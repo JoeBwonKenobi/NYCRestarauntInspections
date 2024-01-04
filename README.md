@@ -35,7 +35,7 @@ YELP API
 - #pip install geopandas matplotlib folium
 - YELP API key
 
-## **About NYC Health Inspections data: **
+## **About NYC Health Inspections data:**
 
 This dataset includes NYC restuarant inpection data for the last three years prior to the most recent inspection and does not include restaurants that go out of business. Letter grading inspections were put on pause beginning March 17, 2020, until July 19, 2021, due to the COVID-19 public health emergency. Modified restaurant inspections occurred during this time. Restaurants are uniquely identified by their CAMIS number. Only restaurants that are currently active as of the date of this extraction are included in the dataset. Establishments with inspection date of 1/1/1900 are new establishments that have not yet received an inspection. These will be excluded from parts of the project.
 
@@ -43,7 +43,7 @@ This dataset includes NYC restuarant inpection data for the last three years pri
 
 I only included YELP data specifically for pizza restaurants in Brooklyn,NY. This helped to focus on a smaller dataset to search for correlation between the inspection scores and ratings. 
 
-# **Methods**
+# **Methods:**
 
 -I used feature engineering to create multiple new columns in the dataset to help gather a more in-depth look into the data.
 
@@ -51,7 +51,7 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 - I used many different visualization methods using matplotlib, seaborn, and pandas. I also included a geospatial visualization summing up the majority of my findings.
 
-# **NYC Inspections EDA**
+# **NYC Inspections EDA:**
 
 ![Distribution of Box Scores for inspections](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/53c31b9b-b282-431a-81f9-1e7a8221b24d)
 
@@ -69,7 +69,7 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 - This shows that Brooklyn has the second highest number of restaurants, second only to Manhattan.
 
-# **YELP EDA**
+# **YELP EDA:**
 
 ![Boxplot of ratings and review counts](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/75ed7392-6887-48f1-982d-e4e1dd270f2c)
 
