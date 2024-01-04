@@ -41,11 +41,6 @@ This dataset includes NYC restuarant inpection data for the last three years pri
 About YELP data:
 I only included YELP data specifically for pizza restaurants in Brooklyn,NY. This helped to focus on a smaller dataset to search for correlation between the inspection scores and ratings. 
 
-
-# **Data Dictionary Link**
-
-- 
-
 # **Methods**
 
 -I used feature engineering to create multiple new columns in the dataset to help gather a more in-depth look into the data.
