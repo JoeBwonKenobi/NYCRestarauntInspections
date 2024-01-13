@@ -35,30 +35,30 @@ YELP API
 - #pip install geopandas matplotlib folium
 - YELP API key
 
-About NYC Health Inspections data: 
+## **About NYC Health Inspections data:**
+
 This dataset includes NYC restuarant inpection data for the last three years prior to the most recent inspection and does not include restaurants that go out of business. Letter grading inspections were put on pause beginning March 17, 2020, until July 19, 2021, due to the COVID-19 public health emergency. Modified restaurant inspections occurred during this time. Restaurants are uniquely identified by their CAMIS number. Only restaurants that are currently active as of the date of this extraction are included in the dataset. Establishments with inspection date of 1/1/1900 are new establishments that have not yet received an inspection. These will be excluded from parts of the project.
 
-About YELP data:
+## **About YELP data:**
+
 I only included YELP data specifically for pizza restaurants in Brooklyn,NY. This helped to focus on a smaller dataset to search for correlation between the inspection scores and ratings. 
 
+# **Methods:**
 
-# **Data Dictionary Link**
-
-- 
-
-# **Methods**
-
--I used feature engineering to create multiple new columns in the dataset to help gather a more in-depth look into the data.
+- I used feature engineering to create multiple new columns in the dataset to help gather a more in-depth look into the data.
 
 - I used hypothesis testing to find out whether or not there was any correlation between better inspections scores mean better ratings on Yelp. I used Z-scores to help identify any outliers and elimnated them before performing 3 different hypothesis tests. Unfortunately, there was no significant correlation found.
 
 - I used many different visualization methods using matplotlib, seaborn, and pandas. I also included a geospatial visualization summing up the majority of my findings.
 
-# **NYC Inspections EDA**
+# **NYC Inspections EDA:**
 
 ![Distribution of Box Scores for inspections](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/53c31b9b-b282-431a-81f9-1e7a8221b24d)
 
 - The majority of the restaurants score between 5-30, which is a good score and means they're able to remain open after a sucessful initial inspection.
+
+![Average score for pizza restaurants by boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/e31e4706-dea6-4f91-b718-2ca8f653d8e8)
+
 
 ![Average Inspection Score for Pizaa Restaurants in each Boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/c816f6b4-19e1-45b5-b801-d4427ace5d17)
 
@@ -69,9 +69,7 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 - This shows that Brooklyn has the second highest number of restaurants, second only to Manhattan.
 
-![Average score for pizza restaurants by boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/e31e4706-dea6-4f91-b718-2ca8f653d8e8)
-
-# **YELP EDA**
+# **YELP EDA:**
 
 ![Boxplot of ratings and review counts](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/75ed7392-6887-48f1-982d-e4e1dd270f2c)
 
@@ -89,4 +87,8 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 [Geospatial Visualization link:](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/blob/main/Brooklyn_Pizza_map.html")
 
+![geospatial viz](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/eccb10aa-f2be-449d-806c-a9f6110663fb)
+
 # **Project Summary**
+
+This project was focused on data involving Pizza Restaurants in Brooklyn, NY.
