@@ -8,7 +8,7 @@ Date Started: 9/10/2023
 
 # **Project Description:**
 
-- Using an API, I extracted Yelp data and mergeed it with health inspections data for Pizza restaurants in Brooklyn.
+- Using an API, I extracted Yelp data and mergeed it with health inspections data from city-wide inspections through the health department for Pizza restaurants in Brooklyn.
 - By employing hypothesis testing, I attempted to investigate the relationship between elevated inspection scores and the likelihood of restaurants in Brooklyn that serve pizza garnering enhanced reviews on Yelp.
 - I used multiple visualization techniques to represent the various aspects of Brooklyn Pizza Restaurants.
 
@@ -84,8 +84,6 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 - This visualization shows the review counts for Pizza restaurants in Brooklyn with at least 200 reviews.
 
 ## **Geospatial Analysis**
-
-[Geospatial Visualization link:](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/blob/main/Brooklyn_Pizza_map.html")
 
 ![geospatial viz](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/eccb10aa-f2be-449d-806c-a9f6110663fb)
 
