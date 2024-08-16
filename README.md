@@ -44,7 +44,7 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 ![Distribution of Box Scores for inspections](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/53c31b9b-b282-431a-81f9-1e7a8221b24d)
 
-- The majority of the restaurants score between 5-30, which is a good score and means they're able to remain open after a sucessful initial inspection.
+- The majority of the restaurants scored between 5-30, which means they're able to remain open after a sucessful initial inspection.
 - A lower number score indicates a better overall performance in the inspection.
 
 ![Avg Inspection score by boro](https://github.com/user-attachments/assets/e6a06a77-68ed-44aa-af95-1a6dc45a761f)
@@ -83,6 +83,10 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 ![geospatial viz](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/eccb10aa-f2be-449d-806c-a9f6110663fb)
 
+- The link below contains an interactive geospatical visualization that contains information about every pizza rstaurant in Brooklyn.
+
+https://github.com/JoeBwonKenobi/NYCRestarauntInspections/blob/main/3%20Brooklyn%20Pizza%20Visualizations.ipynb
+
 # **Project Summary**
 
-This project was focused on data involving Pizza Restaurants in Brooklyn, NY.
+This project was focused on data involving Pizza Restaurants in Brooklyn, NY. Using health inspection data and YELP data to compare pizza restaurants performance.
