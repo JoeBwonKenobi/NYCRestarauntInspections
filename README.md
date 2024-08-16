@@ -49,11 +49,16 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 ![Avg Inspection score by boro](https://github.com/user-attachments/assets/e6a06a77-68ed-44aa-af95-1a6dc45a761f)
 
-- This shows that Brooklyn has the best inspection scores for pizza restaruants compared to the other boroughs.
+- This shows that Brooklyn and Manhattan has the best inspection scores for pizza restaruants compared to the other boroughs.
 
 ![Screenshot 2024-01-01 122336](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/f8a10d62-29a0-4ed8-ba9b-8e695291c8af)
 
-- This shows that Brooklyn has the second highest number of restaurants, second only to Manhattan.
+- This shows that Brooklyn has the second highest number of restaurants, Manhattan having the most.
+
+![Grade by boro ](https://github.com/user-attachments/assets/722def10-7569-488d-99ae-8e2546d9ba4c)
+
+- This contingency table shpws how many restaurants each borough had in each grade.
+- Brooklyn had the second highest number of A's and B's.
 
 ![Average Inspection Score for Pizaa Restaurants in each Boro](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/c816f6b4-19e1-45b5-b801-d4427ace5d17)
 
