@@ -45,6 +45,7 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 ![Distribution of Box Scores for inspections](https://github.com/JoeBwonKenobi/NYCRestarauntInspections/assets/117705408/53c31b9b-b282-431a-81f9-1e7a8221b24d)
 
 - The majority of the restaurants score between 5-30, which is a good score and means they're able to remain open after a sucessful initial inspection.
+- A lower number score indicates a better overall performance in the inspection.
 
 ![Avg Inspection score by boro](https://github.com/user-attachments/assets/e6a06a77-68ed-44aa-af95-1a6dc45a761f)
 
