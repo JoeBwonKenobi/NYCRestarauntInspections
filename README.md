@@ -8,7 +8,7 @@ Date Started: 9/10/2023
 
 # **Project Description:**
 
-- Using an API, I extracted Yelp data and mergeed it with health inspections data from city-wide inspections through the health department for Pizza restaurants in Brooklyn.
+- Using an API, I extracted Yelp data and merged it with health inspections data from city-wide inspections through the health department for Pizza restaurants in Brooklyn.
 - By employing hypothesis testing, I attempted to investigate the relationship between elevated inspection scores and the likelihood of restaurants in Brooklyn that serve pizza garnering enhanced reviews on Yelp.
 - I used multiple visualization techniques to represent the various aspects of Brooklyn Pizza Restaurants.
 
@@ -36,7 +36,7 @@ I only included YELP data specifically for pizza restaurants in Brooklyn,NY. Thi
 
 - I used feature engineering to create multiple new columns in the dataset to help gather a more in-depth look into the data.
 
-- I used hypothesis testing to find out whether or not there was any correlation between better inspections scores mean better ratings on Yelp. I used Z-scores to help identify any outliers and elimnated them before performing 3 different hypothesis tests. Unfortunately, there was no significant correlation found.
+- I used hypothesis testing to find out whether or not there was any correlation between better inspections scores mean better ratings on Yelp. I used Z-scores to help identify any outliers and eliminated them before performing 3 different hypothesis tests. Unfortunately, there was no significant correlation found.
 
 - I used many different visualization methods using matplotlib, seaborn, and pandas. I also included a geospatial visualization summing up the majority of my findings.
 
